@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0643-maximum-average-subarray-i) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
