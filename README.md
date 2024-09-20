@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
