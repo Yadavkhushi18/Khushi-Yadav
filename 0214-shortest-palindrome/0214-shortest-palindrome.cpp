@@ -5,7 +5,6 @@ public:
         string combinedString = s + "#" + reversedString;
         vector<int> prefixTable = buildPrefixTable(combinedString);
         int palindromeLength = prefixTable[combinedString.length() - 1];
-        // cout<<palindromeLength;
         string suffix = reversedString.substr(0, s.length() - palindromeLength);
         return suffix + s;
     }
