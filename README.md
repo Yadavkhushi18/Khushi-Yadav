@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
