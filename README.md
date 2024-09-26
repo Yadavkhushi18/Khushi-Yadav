@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
