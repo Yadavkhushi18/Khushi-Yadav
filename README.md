@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0239-sliding-window-maximum) |
@@ -154,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
