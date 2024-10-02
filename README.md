@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
 | [0859-design-circular-deque](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0859-design-circular-deque) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0432-all-oone-data-structure](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0432-all-oone-data-structure) |
+| [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
+| [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
