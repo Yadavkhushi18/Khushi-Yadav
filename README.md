@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1694-make-sum-divisible-by-p) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0908-middle-of-the-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
