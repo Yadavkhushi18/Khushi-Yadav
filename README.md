@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
