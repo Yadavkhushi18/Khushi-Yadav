@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0239-sliding-window-maximum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0432-all-oone-data-structure](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 ## Binary Search
