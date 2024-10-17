@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1304-longest-happy-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1250-longest-common-subsequence) |
