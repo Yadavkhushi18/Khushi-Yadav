@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0670-maximum-swap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
