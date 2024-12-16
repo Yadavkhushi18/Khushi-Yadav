@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
