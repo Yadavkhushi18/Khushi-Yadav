@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
