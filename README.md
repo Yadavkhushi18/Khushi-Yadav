@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
@@ -416,5 +417,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
