@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
+| [0806-domino-and-tromino-tiling](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1250-longest-common-subsequence) |
