@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1293-three-consecutive-odds) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
