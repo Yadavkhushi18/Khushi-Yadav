@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0908-middle-of-the-linked-list) |
