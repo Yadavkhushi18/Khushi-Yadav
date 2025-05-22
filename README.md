@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3430-count-days-without-meetings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3195-separate-black-and-white-balls) |
+| [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
