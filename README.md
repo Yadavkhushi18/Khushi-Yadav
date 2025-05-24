@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3194-find-words-containing-character](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
