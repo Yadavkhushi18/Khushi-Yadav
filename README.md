@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
 | [0797-rabbits-in-forest](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0859-design-circular-deque) |
+| [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0741-cherry-pickup) |
+| [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
+| [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
