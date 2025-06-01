@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3637-count-number-of-balanced-permutations) |
 ## Tree
 |  |
