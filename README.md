@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
 | [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1986-largest-color-value-in-a-directed-graph) |
