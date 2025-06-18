@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3430-count-days-without-meetings) |
