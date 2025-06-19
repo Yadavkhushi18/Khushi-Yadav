@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2249-count-the-hidden-sequences) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
