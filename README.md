@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
