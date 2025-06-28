@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2249-count-the-hidden-sequences) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1694-make-sum-divisible-by-p) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2616-maximal-score-after-applying-k-operations) |
