@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3637-count-number-of-balanced-permutations) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
