@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1304-longest-happy-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
