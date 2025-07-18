@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2249-count-the-hidden-sequences) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
