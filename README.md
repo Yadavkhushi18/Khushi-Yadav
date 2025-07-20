@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1502-construct-k-palindrome-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1923-sentence-similarity-iii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
