@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2479-meeting-rooms-iii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0684-redundant-connection) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
