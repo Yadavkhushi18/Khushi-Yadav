@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
