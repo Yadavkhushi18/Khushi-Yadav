@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0219-contains-duplicate-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
