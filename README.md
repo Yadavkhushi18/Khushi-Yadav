@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0731-my-calendar-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
