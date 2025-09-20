@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -667,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
