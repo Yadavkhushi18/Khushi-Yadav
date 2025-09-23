@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
+| [0165-compare-version-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0908-middle-of-the-linked-list) |
