@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0643-maximum-average-subarray-i) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0900-reordered-power-of-2) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0731-my-calendar-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1923-sentence-similarity-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1923-sentence-similarity-iii) |
