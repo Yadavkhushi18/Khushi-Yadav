@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1293-three-consecutive-odds) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
