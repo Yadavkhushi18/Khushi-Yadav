@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2429-design-a-food-rating-system) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2479-meeting-rooms-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
