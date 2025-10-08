@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2581-divide-players-into-teams-of-equal-skill) |
