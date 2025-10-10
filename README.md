@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
