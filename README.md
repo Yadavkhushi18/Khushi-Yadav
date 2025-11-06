@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -884,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -977,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -987,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3863-power-grid-maintenance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
