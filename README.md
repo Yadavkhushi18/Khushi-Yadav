@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0518-coin-change-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0290-word-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0583-delete-operation-for-two-strings) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0518-coin-change-ii) |
