@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
