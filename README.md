@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0583-delete-operation-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1170-shortest-common-supersequence) |
