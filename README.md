@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1628-count-submatrices-with-all-ones) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
