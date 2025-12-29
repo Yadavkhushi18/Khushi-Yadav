@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0940-fruit-into-baskets) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0583-delete-operation-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
