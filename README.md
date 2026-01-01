@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0118-pascals-triangle) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0326-power-of-three) |
