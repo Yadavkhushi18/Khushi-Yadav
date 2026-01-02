@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0945-snakes-and-ladders) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-largest-perimeter-triangle) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1353-find-resultant-array-after-removing-anagrams) |
