@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2023-design-movie-rental-system) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1628-count-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2343-count-unguarded-cells-in-the-grid) |
