@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0120-triangle) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0498-diagonal-traverse) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
@@ -1074,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1628-count-submatrices-with-all-ones) |
