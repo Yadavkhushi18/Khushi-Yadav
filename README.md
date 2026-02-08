@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0547-number-of-provinces) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1261,5 +1263,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0110-balanced-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
