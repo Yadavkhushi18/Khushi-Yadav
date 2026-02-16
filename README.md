@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -1120,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
