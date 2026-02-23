@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1590-make-sum-divisible-by-p) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1502-construct-k-palindrome-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
@@ -1127,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yadavkhushi18/Khushi-Yadav/tree/master/1993-sum-of-all-subset-xor-totals) |
